@@ -1,6 +1,6 @@
 {
   "name": "cabrel-curb-lib",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A queue service, backed by Redis",
   "main": "index.js",
   "scripts": {},
