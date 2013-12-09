@@ -1,6 +1,6 @@
 {
   "name": "cabrel-curb-lib",
-  "version": "1.3.0",
+  "version": "1.3.0a",
   "description": "A queue service, backed by Redis",
   "main": "index.js",
   "scripts": {},
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/cabrel/curb-lib.git"
   },
-  "author": "cabrel@zerklabs.com",
+  "author": "Robin Harper <cabrel@zerklabs.com>",
   "license": "MIT",
   "dependencies": {
     "cabrel-config": "*",
